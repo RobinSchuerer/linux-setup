@@ -1,0 +1,94 @@
+conky.config = {
+  use_xft= true,
+  font = 'Ubuntu:size=10',
+  override_utf8_locale = true,
+
+  -- Performance Settings
+  update_interval = 1,
+  total_run_times = 0,
+  double_buffer = true,
+  no_buffers = true,
+  net_avg_samples = 2,
+  text_buffer_size = 1024,
+
+  --Window Settings
+  own_window = true,
+  own_window_transparent = no,
+  own_window_type = 'normal',
+  own_window_hints = 'undecorated,below,skip_taskbar,sticky,skip_pager',
+  own_window_argb_visual = true,
+  own_window_argb_value = 0,
+
+  -- Window border
+  draw_borders = false,
+  draw_shades = true,
+  -- Default Color
+  default_color = 'E0DFDE',
+
+-- Color Title.
+  color0 = 'DD3A21',
+
+-- Size and position
+  minimum_height = 100,
+  minimum_width = 300,
+  gap_x = 0,
+  gap_y = 100,
+  alignment = 'top_right',
+-- Sonstiges
+  draw_graph_borders = false
+}
+
+conky.text = [[
+
+${font Ubuntu:bold:size=64}\
+  ${alignc}${time %H:%M %p}\
+${font}\
+
+${font Ubuntu:bold:size=32}\
+  ${alignc}${time %d %b %Y}\
+${font}\
+
+${voffset 20}
+${goto 70}Computer${goto 150}${nodename}
+${goto 70}System${goto 150}${sysname}${kernel}
+${voffset 20}
+${goto 70}RAM${goto 150}${mem}  |  ${memmax}
+${goto 70}CPU1${goto 150}${cpu cpu1}%${cpugraph cpu1 10,90}
+${goto 70}CPU2${goto 150}${cpu cpu2}%${cpugraph cpu2 10,90}
+${goto 70}CPU3${goto 150}${cpu cpu3}%${cpugraph cpu3 10,90}
+${goto 70}CPU4${goto 150}${cpu cpu4}%${cpugraph cpu4 10,90}
+${voffset 20}
+${goto 70}root${goto 150}${fs_used_perc /}%${goto 180}${fs_used /}${goto 240}${fs_size /}
+${goto 70}swap${goto 150}${swapperc}%${goto 180}${swapfree}${goto 240}${swapmax}
+${voffset 20}
+${goto 70}Public IP${goto 150} ${execi 1800 ~/.conky/scripts/ip.sh}
+${goto 70}Private IP${goto 150} ${addr wlp4s0}
+${goto 70}Download${goto 150} ${downspeedf wlp4s0} KiB/s
+${goto 70}Total${goto 150} ${totaldown wlp4s0}
+${goto 70}Upload${goto 150} ${upspeedf wlp4s0} KiB/s
+${goto 70}Total${goto 150} ${totalup wlp4s0}
+${voffset 20}
+${goto 70}Prozess 1${goto 150} ${top name 1} ${goto 240} ${top cpu 1}
+${goto 70}Prozess 2${goto 150} ${top name 2} ${goto 240} ${top cpu 2}
+${goto 70}Prozess 3${goto 150} ${top name 3} ${goto 240} ${top cpu 3}
+${goto 70}Prozess 4${goto 150} ${top name 4} ${goto 240} ${top cpu 4}
+${goto 70}Prozess 5${goto 150} ${top name 5} ${goto 240} ${top cpu 5}
+
+#${GOTO 60}${font Ubuntu:bold:size=10}System${GOTO 320}${font Ubuntu:bold:size=10}Resources${GOTO 620}${font Ubuntu:bold:size=10}File System${GOTO 920}${font Ubuntu:bold:size=10}Network${GOTO 1200}${font Ubuntu:bold:size=10}Units${font}
+
+#${GOTO 60}Computer${GOTO 120}:${GOTO 140}${nodename}${GOTO 320}RAM${GOTO 380}:   ${mem}   |   ${memmax}${GOTO 620}Dir. ${GOTO 665}| ${GOTO 685}Total${GOTO 730}|${GOTO 750}Used${GOTO 795}|${GOTO 815}Free${GOTO 920}Public IP${GOTO 1020}:${GOTO 1040} ${execi 1800 ~/.conky/scripts/ip.sh} ${GOTO 1200}Battery${GOTO 1270}:  ${battery_percent} %   -   ${acpiacadapter}
+#${GOTO 60}System${GOTO 120}:${GOTO 140}${sysname}   ${kernel}${GOTO 380}    ${membar 5,120}   -   ${memperc} %${GOTO 620}_____________________________________________${GOTO 920}Local IP${GOTO 1020}:${GOTO 1040} ${addr wlan0}
+#${GOTO 60}Machine${GOTO 120}:${GOTO 140}$machine${GOTO 320}CPU 1${GOTO 380}:   ${cpubar cpu1 5,120}   -   ${cpu cpu1} %${GOTO 1200}
+#${GOTO 60}Uptime${GOTO 120}:${GOTO 140}${uptime} ${GOTO 320}CPU 2${GOTO 380}:   ${cpubar cpu2 5,120}   -   ${cpu cpu2} %${GOTO 620}root${GOTO 680}${fs_size /}${GOTO 745}${fs_used /}${GOTO 810}${fs_free /}${GOTO 920}Receiving${GOTO 1020}:${GOTO 1040}${downspeedf wlan0} /s
+#${GOTO 320}SWAP${GOTO 380}:   ${swapbar 5,120}   -   ${swapperc} % ${GOTO 620}home${GOTO 680}${fs_size /home/}${GOTO 745}${fs_used /home/}${GOTO 810}${fs_free /home/}${GOTO 920}Total Received${GOTO 1020}:${GOTO 1040}${totaldown wlan0}${GOTO 1200}Processor${GOTO 1270}:  ${acpitemp} °C
+#${GOTO 60}Date${GOTO 120}:${GOTO 140}${time %A, %d %b %Y}${GOTO 320}Load${GOTO 380}:   $loadavg ${GOTO 920}Sending${GOTO 1020}:${GOTO 1040}${upspeedf wlan0} /s${GOTO 620}
+#${GOTO 60}Time${GOTO 120}:${GOTO 140}${time %H:%M %p}${GOTO 320}Processes${GOTO 380}:   $processes ${GOTO 620}Data${GOTO 680}${GOTO 920}Total Sent${GOTO 1020}:${GOTO 1040}${totalup wlan0} ${GOTO 1200}Frequency${GOTO 1270}:  ${freq_g} Ghz
+
+### background & icons ######
+###${image ~/.conky/pix/background.png -p 0,0 -s 1366x180}
+${image ~/.conky/pix/system.png -p 5,165 -s 45x45}
+${image ~/.conky/pix/resources.png -p 5,250 -s 45x45}
+${image ~/.conky/pix/file-system.png -p 5,330 -s 45x45}
+${image ~/.conky/pix/wireless.png -p  5,420 -s 45x45}
+${image ~/.conky/pix/units.png -p 5,530 -s 45x45}
+]]
