@@ -3,7 +3,7 @@
 # for examples
 
 function git_current_branch() {
-  git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+   git symbolic-ref HEAD 2> /dev/null | sed -e 's/refs\/heads\///'
 }
 
 # If not running interactively, don't do anything
@@ -63,18 +63,18 @@ fi
 if [ "$color_prompt" = yes ]; then
     PS1="\[\033[38;5;39m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;217m\][\w]\[$(tput sgr0)\]\[\033[38;5;15m\]\[$(tput bold)\]\[\033[38;5;84m\]$(git_current_branch)\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;9m\]>\[$(tput sgr0)\] "
 else
-    PS1="\[\033[38;5;39m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;217m\][\w]\[$(tput sgr0)\]\[\033[38;5;15m\]\[$(tput bold)\]\[\033[38;5;84m\]$(git_current_branch)\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;9m\]>\[$(tput sgr0)\] "
+    PS1="\[\033[38;5;39m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;217m\][\w]\[$(tput sgr0)\]\[\033[38;5;15m\]\[$(tput bold)\]\[\033[38;5;84m\] \$(git_current_branch) \[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;9m\]>\[$(tput sgr0)\] "
 fi
 unset color_prompt force_color_prompt
 
 # If this is an xterm set the title to user@host:dir
-case "$TERM" in
-xterm*|rxvt*)
-    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
-    ;;
-*)
-    ;;
-esac
+# case "$TERM" in
+# xterm*|rxvt*)
+#     PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+#     ;;
+# *)
+#     ;;
+# esac
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
