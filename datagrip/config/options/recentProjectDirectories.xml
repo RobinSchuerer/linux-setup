@@ -1,0 +1,66 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/dev/braincode/devDatabases" />
+        <option value="$APPLICATION_CONFIG_DIR$/projects/testDatabases" />
+        <option value="$APPLICATION_CONFIG_DIR$/projects/default" />
+        <option value="$USER_HOME$/dev/braincode/sql" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/braincode/devDatabases" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev/braincode/devDatabases" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/projects/default">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="DB-162.2229.1" />
+              <option name="productionCode" value="DB" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1477901506901" />
+              <option name="buildTimestamp" value="1476655200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/projects/testDatabases">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="DB-162.2229.1" />
+              <option name="productionCode" value="DB" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1477901817595" />
+              <option name="buildTimestamp" value="1476655200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/devDatabases">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="DB-163.12455.1" />
+              <option name="productionCode" value="DB" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487653857283" />
+              <option name="buildTimestamp" value="1485346315497" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/sql">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="DB-162.2229.1" />
+              <option name="productionCode" value="DB" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1477901460196" />
+              <option name="buildTimestamp" value="1476655200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

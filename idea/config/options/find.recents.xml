@@ -1,0 +1,50 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>name</find>
+      <find>angular</find>
+      <find>webja</find>
+      <find>angular-bootstrap-lightbox.js</find>
+      <find>title</find>
+      <find>caption</find>
+      <find>text</find>
+      <find>benefit</find>
+      <find>Benefit</find>
+      <find>thyme</find>
+      <find>braincode.bs.imageUrl</find>
+      <find>braincode.media.baseurl</find>
+      <find>braincode.media.downloader</find>
+      <find>test</find>
+      <find>ore</find>
+      <find>print</find>
+      <find>getBy</find>
+      <find>ti</find>
+      <find>artic</find>
+      <find>image</find>
+      <find>hash</find>
+      <find>imageH</find>
+      <find>imageId</find>
+      <find>na</find>
+      <find>graphicsmagick.gmPath</find>
+      <find>refc</find>
+      <find>ref</find>
+      <find>re</find>
+      <find>create</find>
+      <find>createre</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LeadRef</replace>
+      <replace>(final String</replace>
+      <replace>&quot;&quot;</replace>
+      <replace>$.</replace>
+      <replace>Value)</replace>
+      <replace>this:</replace>
+      <replace>Value;</replace>
+      <replace>;</replace>
+      <replace>&gt;&lt;/script&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/dev/braincode/media-service</dir>
+    </dirStrings>
+  </component>
+</application>

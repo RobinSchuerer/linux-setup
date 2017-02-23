@@ -1,0 +1,15 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="17" />
+    <property name="DBE.Init.Cfg.1" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DBE.Default.Dialect" value="PostgreSQL" />
+    <property name="DBE.Init.DialogShown.Ide" value="true" />
+    <property name="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.splitter" value="0.3887468" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/braincode/braincode-scripts/create-demo-release/changeset_misc/2017_02&#10;/home/robin/dev/braincode/sql&#10;/home/robin/dev/braincode/devDatabases" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="evlsprt3.163" value="13" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+  </component>
+</application>

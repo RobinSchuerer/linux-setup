@@ -1,0 +1,37 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="16" />
+    <property name="installed.kotlin.plugin.version" value="1.0.5-release-IJ2016.3-1" />
+    <property name="android-component-compatibility-check" value="1487570172236" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/braincode/cdapi&#10;/home/robin/dev/braincode/cadm&#10;/home/robin/dev/braincode/bcmail&#10;/home/robin/dev/braincode/inma&#10;/home/robin/dev/braincode/cmapi&#10;/home/robin/dev/braincode/cosy&#10;/home/robin/dev/braincode/casm&#10;/home/robin/dev/braincode/bms&#10;/home/robin/dev/braincode/elg&#10;/home/robin/dev/GameOfLifeFunctional&#10;/home/robin/dev/braincode/content-assembler&#10;/home/robin/dev/braincode/invitation-manager&#10;/home/robin/dev/braincode/club-admin&#10;/home/robin/dev/braincode/braincode-common&#10;/home/robin/dev/braincode/log-worker&#10;/home/robin/dev/braincode/braincode-mail&#10;/home/robin/dev/braincode/benefit-service/config/checkstyle/checkstyle.xml&#10;/home/robin/dev/braincode/content-delivery-api&#10;/home/robin/dev/braincode/content-sync/src/main/resources/db/migration/V14__advertising_changes.sql&#10;/home/robin/dev/braincode/media-service&#10;/home/robin/dev/braincode/image-service&#10;/home/robin/dev/braincode/content-management-web&#10;/home/robin/dev/braincode/benefit-service&#10;/home/robin/dev/braincode/profile-generator&#10;/home/robin/dev/braincode/content-sync&#10;/home/robin/dev/braincode/content-management-api&#10;/home/robin/dev/braincode/club-mail-templates&#10;/home/robin/Downloads/Monokai Sublime Text 3.jar&#10;/usr/lib/jvm/java-8-oracle" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="1" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="selected.color.option.type" value="INFO_ATTRIBUTES" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="PLUGIN_FILTER" value="generateserialversion&#10;checkstyle&#10;gherkin&#10;webjars&#10;webjar" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="ColorChooser.RecentColors" value="62-68-81-255,,,40-44-52-255,,,229-192-120-255,,,218-108-117-255,,,255-255-255-255,,,65-0-13-255,,,255-0-0-255,,,89-93-218-255,,,218-137-170-255" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="create.member.preselect.anonymous" value="true" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15363565" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="SpringBeansModulesPanel[0]" value="0.08061266" />
+    <property name="evlsprt3.163" value="18" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5900277" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="INSPECTION_FILTER_HISTORY" value="checkstyl&#10;final" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+  </component>
+</application>

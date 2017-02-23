@@ -1,0 +1,1 @@
+SELECT * from schema_version

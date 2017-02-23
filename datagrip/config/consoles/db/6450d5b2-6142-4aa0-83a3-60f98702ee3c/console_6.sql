@@ -1,0 +1,1 @@
+select * from article  where sections -> 'type'

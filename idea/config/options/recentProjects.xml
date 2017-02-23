@@ -1,0 +1,319 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/dev/braincode/cosy" />
+        <option value="$USER_HOME$/dev/braincode/cdapi" />
+        <option value="$USER_HOME$/dev/braincode/cadm" />
+        <option value="$USER_HOME$/dev/braincode/cmapi" />
+        <option value="$USER_HOME$/dev/braincode/club-admin" />
+        <option value="$USER_HOME$/dev/braincode/bms" />
+        <option value="$USER_HOME$/dev/braincode/bcmail" />
+        <option value="$USER_HOME$/dev/braincode/inma" />
+        <option value="$USER_HOME$/dev/braincode/casm" />
+        <option value="$USER_HOME$/dev/braincode/braincode-mail" />
+        <option value="$USER_HOME$/dev/braincode/content-sync" />
+        <option value="$USER_HOME$/dev/braincode/benefit-service" />
+        <option value="$USER_HOME$/dev/braincode/braincode-common" />
+        <option value="$USER_HOME$/dev/braincode/log-worker" />
+        <option value="$USER_HOME$/dev/braincode/content-assembler" />
+        <option value="$USER_HOME$/dev/braincode/profile-generator" />
+        <option value="$USER_HOME$/dev/braincode/elg" />
+        <option value="$USER_HOME$/dev/braincode/media-service" />
+        <option value="$USER_HOME$/dev/braincode/content-management-api" />
+        <option value="$USER_HOME$/dev/braincode/content-delivery-api" />
+        <option value="$USER_HOME$/dev/braincode/invitation-manager" />
+        <option value="$USER_HOME$/dev/GameOfLifeFunctional" />
+        <option value="$USER_HOME$/dev/braincode/image-service" />
+        <option value="$USER_HOME$/dev/braincode/content-management-web" />
+        <option value="$USER_HOME$/dev/braincode/club-mail-templates" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/braincode/cadm" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev/braincode/cosy" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/GameOfLifeFunctional">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.10154.41" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483450227231" />
+              <option name="buildTimestamp" value="1482328047553" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/bcmail">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487652758318" />
+              <option name="buildTimestamp" value="1485857126551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/benefit-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487150500068" />
+              <option name="buildTimestamp" value="1485857130335" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/bms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487682625323" />
+              <option name="buildTimestamp" value="1485857126551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/braincode-common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487051980266" />
+              <option name="buildTimestamp" value="1485857129417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/braincode-mail">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487577772382" />
+              <option name="buildTimestamp" value="1485857147836" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/cadm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487830718571" />
+              <option name="buildTimestamp" value="1485857133533" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/casm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487652754602" />
+              <option name="buildTimestamp" value="1485857126551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/cdapi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487830758261" />
+              <option name="buildTimestamp" value="1485857133533" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/club-admin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487747896715" />
+              <option name="buildTimestamp" value="1485857126551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/club-mail-templates">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1477568408324" />
+              <option name="buildTimestamp" value="1476396000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/cmapi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487749814600" />
+              <option name="buildTimestamp" value="1485857126551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/content-assembler">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487051976289" />
+              <option name="buildTimestamp" value="1485857129417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/content-delivery-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486364600885" />
+              <option name="buildTimestamp" value="1485857109762" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/content-management-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486960916549" />
+              <option name="buildTimestamp" value="1485857148355" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/content-management-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479394671716" />
+              <option name="buildTimestamp" value="1476396000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/content-sync">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487318908807" />
+              <option name="buildTimestamp" value="1485857148874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/cosy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487834741134" />
+              <option name="buildTimestamp" value="1485857133533" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/elg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486981640487" />
+              <option name="buildTimestamp" value="1485857148355" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/image-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2228.15" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479733702762" />
+              <option name="buildTimestamp" value="1476396000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/inma">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487652756857" />
+              <option name="buildTimestamp" value="1485857126551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/invitation-manager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.11103.6" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484749979981" />
+              <option name="buildTimestamp" value="1484600620876" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/log-worker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487051977491" />
+              <option name="buildTimestamp" value="1485857129417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/media-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486981640221" />
+              <option name="buildTimestamp" value="1485857148355" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/braincode/profile-generator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487051973535" />
+              <option name="buildTimestamp" value="1485857129417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/dev/braincode" />
+  </component>
+</application>

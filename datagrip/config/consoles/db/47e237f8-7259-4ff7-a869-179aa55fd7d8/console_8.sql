@@ -1,0 +1,1 @@
+SELECT * from partner_follow

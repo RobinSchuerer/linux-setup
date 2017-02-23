@@ -1,0 +1,37 @@
+<application>
+  <component name="DimensionService">
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.2560.1440" x="2929" y="284" />
+    <location key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.1920.0.2560.1440" x="2989" y="490" />
+    <location key="SettingsEditor.1920.0.2560.1440" x="2674" y="525" />
+    <location key="FileChooserDialogImpl.1920.0.2560.1440" x="2991" y="708" />
+    <location key="com.intellij.database.run.ParametersPanel.Standalone.1920.0.2560.1440" x="2963" y="651" />
+    <location key="com.intellij.database.run.ParametersPanel.Standalone.1920.0.1920.1080" x="2641" y="415" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.1920.0.2560.1440" x="2858" y="423" />
+    <location key="com.intellij.database.view.ui.DeleteDialog.1920.0.2560.1440" x="2893" y="1123" />
+    <location key="findTextDialog.1920.0.2560.1440" x="2958" y="475" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2660" y="330" />
+    <location key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.1920.0.1920.1080" x="2340" y="272" />
+    <size key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.1920.0.2560.1440" width="1361" height="566" />
+    <size key="GridCell.Tab.0.left.1920.0.2560.1440" width="2514" height="561" />
+    <size key="GridCell.Tab.0.center.1920.0.2560.1440" width="2514" height="561" />
+    <size key="GridCell.Tab.0.right.1920.0.2560.1440" width="2514" height="561" />
+    <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2514" height="561" />
+    <size key="SettingsEditor.1920.0.2560.1440" width="1052" height="664" />
+    <size key="FileChooserDialogImpl.1920.0.2560.1440" width="424" height="466" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1874" height="400" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1874" height="400" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1874" height="400" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1874" height="400" />
+    <size key="com.intellij.database.run.ParametersPanel.Standalone.1920.0.2560.1440" width="476" height="468" />
+    <size key="com.intellij.database.run.ParametersPanel.Standalone.1920.0.1920.1080" width="476" height="468" />
+    <size key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.1920.0.2560.1440" width="675" height="643" />
+    <size key="com.intellij.database.view.ui.DeleteDialog.1920.0.2560.1440" width="658" height="294" />
+    <size key="findTextDialog.1920.0.2560.1440" width="475" height="539" />
+    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="424" height="495" />
+    <size key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.1920.0.1920.1080" width="1083" height="566" />
+  </component>
+</application>

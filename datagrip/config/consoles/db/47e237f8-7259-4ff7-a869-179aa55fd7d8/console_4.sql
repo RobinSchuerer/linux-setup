@@ -1,0 +1,1 @@
+select u.first_name, u.last_name, u.name from app_user u
