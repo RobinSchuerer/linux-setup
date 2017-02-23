@@ -63,7 +63,7 @@ fi
 if [ "$color_prompt" = yes ]; then
     PS1="\[\033[38;5;39m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;217m\][\w]\[$(tput sgr0)\]\[\033[38;5;15m\]\[$(tput bold)\]\[\033[38;5;84m\]$(git_current_branch)\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;9m\]>\[$(tput sgr0)\] "
 else
-    PS1="\[\033[38;5;39m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;217m\][\w]\[$(tput sgr0)\]\[\033[38;5;15m\]\[$(tput bold)\]\[\033[38;5;84m\] \$(git_current_branch) \[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;9m\]>\[$(tput sgr0)\] "
+    PS1="\[\033[38;5;39m\]\u\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;217m\][\w]\[$(tput sgr0)\]\[\033[38;5;15m\]\[$(tput bold)\]\[\033[38;5;84m\] <\$(git_current_branch)>\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;9m\]>\[$(tput sgr0)\] "
 fi
 unset color_prompt force_color_prompt
 
